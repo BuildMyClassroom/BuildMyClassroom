@@ -5,7 +5,7 @@
 Goal 1: No Poverty <br>
 Goal 4: Quality Education 
 
-# Project idea
+# Project Idea
 
 A Digital habitat platform that will enable teachers to reach a wide audience, to request supplies for kids to succeed in school. Habitat will connect two different communities together. 
 
