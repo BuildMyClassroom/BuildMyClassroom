@@ -11,7 +11,7 @@ A Digital habitat platform that will enable teachers to reach a wide audience, t
 
 # Project background/Business Opportunity
 
-## WHY:
+## Why:
 
 In some schools, especially younger kids, face many challenges while studying. Since classrooms have a diversity of culture and economic students, going to school is not equal for everyone. Depending on the situations and time management, kids come to school on an empty stomach. This definitely affects the kids health and the ability to stay focused in sharing knowledge. Additionally, some students do not have the required tools such as school supplies, such as notebooks, pens etc. Many students are not able to participate in activities which will require some amount of participation with purchase. Schools plan many activities where kids can be involved in and improve their physical and mental states. However, this does not correlate with all the students because many do not have the same level of economic stability as their parents cannot afford such things. These things could affect kids massively in their future life academically and professionally. 
 
